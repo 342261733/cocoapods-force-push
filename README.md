@@ -8,4 +8,4 @@ A description of cocoapods-force-push.
 
 ## Usage
 
-    $ pod spec push POD_NAME
+    $ pod force repo push POD_NAME POD_NAME.podspec
